@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tanerayaz
 - 👀 I’m interested in Data Analysis, Data Science
-- 🌱 I’m currently learning Python Pandas, Numpy, SciPy
+- 🌱 I’m currently learning Python NumPy, Pandas, Seaborn, SciPy
 - 💞️ I’m looking to collaborate on Data Analysis projects
 - 📫 You can reach me via taner@ayaz.name
 
