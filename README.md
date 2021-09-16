@@ -4,13 +4,13 @@ Experienced Ph.D. in Informatics with a demonstrated history of working in the a
 
 Skilled in;
 
-  <p>🔭 Python,
-	<p>👯 Pandas, NumPy, SeaBorn
-	<p>🤔 Tableau,
-	<p>📫 SQL,
-  <p>🌱 Data Science,
-	<p>⚡ Research
-  
+    🔭 Python (libraries: NumPy, Pandas, Seaborn, SciKit-Learn, Matplotlib),
+    🌱 Data Science,
+    💬 Big Data
+    👯 Machine Learning,
+    📫 Artificial Intelligence(AI),
+    ⚡ Deep Learning
+
     https://www.linkedin.com/in/tanerayaz/
     https://www.kaggle.com/tanerayaz
     taner@ayaz.name
