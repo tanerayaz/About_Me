@@ -6,11 +6,7 @@ Skilled in;
 
     🔭 Python (libraries: NumPy, Pandas, Seaborn, SciKit-Learn, Matplotlib),
     🌱 Data Science,
-    💬 Big Data
-    👯 Machine Learning,
-    📫 Artificial Intelligence(AI),
-    ⚡ Deep Learning
-
+    
     https://www.linkedin.com/in/tanerayaz/
     https://www.kaggle.com/tanerayaz
     taner@ayaz.name
